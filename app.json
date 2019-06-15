@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-firebase-auth",
-    "slug": "react-native-firebase-auth",
+    "name": "averly",
+    "slug": "averly",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
@@ -15,7 +15,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
